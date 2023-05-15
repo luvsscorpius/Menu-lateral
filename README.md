@@ -1,0 +1,1 @@
+Esse é um projeto de menu lateral com HTML, CSS e JavaScript
